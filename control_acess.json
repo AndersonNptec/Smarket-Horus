@@ -1,10 +1,11 @@
 {
   "acesso_liberado": true,
   "mensagem": "Sistema em manutenção. Volte mais tarde.",
-  "versao_minima": "1.0",
+  "versao_minima": "1.2",
   "mensagem_erro": "Versão desatualizada! Solicite a versão nova."
 
 }
+
 
 
 
